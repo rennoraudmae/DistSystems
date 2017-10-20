@@ -1,0 +1,6 @@
+Application started
+Socket is bound to 127.0.0.1:7778
+Waiting for message ...
+Received message from 127.0.0.1:50516
+Payload lengh 11 bytes: [Hell world!]
+Press Enter to teminate ...

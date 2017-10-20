@@ -1,0 +1,6 @@
+Application started
+OS assigned process id: X
+UDP Socket created
+File descriptor assigned by OS:  Y
+Waiting 300 seconds before termination ...
+
