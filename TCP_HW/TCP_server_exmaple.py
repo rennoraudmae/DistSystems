@@ -6,6 +6,7 @@ port = 12345                 # Reserve a port for your service.
 s.bind((host, port))        # Bind to the port
 f = open('torecv.png','wb')
 s.listen(5)                 # Now wait for client connection.
+
 while True:
     c, addr = s.accept()     # Establish connection with client.
     print 'Got connection from', addr
